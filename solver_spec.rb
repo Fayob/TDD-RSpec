@@ -1,5 +1,6 @@
 require './solver'
 
+#solver test
 describe Solver do
   describe 'Test for factorial method' do
     solver = Solver.new('qwert')

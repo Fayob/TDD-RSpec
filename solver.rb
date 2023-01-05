@@ -1,3 +1,4 @@
+# solver class
 class Solver
   def initialize(value)
     @value = value
