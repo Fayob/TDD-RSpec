@@ -1,13 +1,10 @@
 require './solver'
 
-#solver test
+# solver test
 describe Solver do
   describe 'Test for factorial method' do
     solver = Solver.new('qwert')
     it 'Should test for correct in factorial method in solver class' do
-      # mock = double("Solver")
-      # expect(mock).to receive(:factorial).with(4)
-
       expect(solver.factorial(0)).to eql(1)
       expect(solver.factorial(2)).to eql(2)
       expect(solver.factorial(4)).to eql(24)
