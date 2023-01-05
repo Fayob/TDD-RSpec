@@ -1,12 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -91,13 +84,18 @@ To run tests, run the following command:
 
 <!-- AUTHORS -->
 
-## 👤 Author <a name="authors"></a>
+## 👤👤 Authors <a name="authors"></a>
 
-<!-- 👤 **Author** -->
+👤 **Author1**
 
 - GitHub: [@fayob](https://github.com/fayob)
 - Twitter: [@fabimworld](https://twitter.com/Fabimworld2536)
 - LinkedIn: [@abimbola-ade](http://linkedin.com/in/abimbola-ade/)
+
+👤 **Author2**
+
+- GitHub: [@kene-creator](https://github.com/kene-creator)
+- Twitter: [@kay_yung1](https://twitter.com/kay_yung1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,6 +141,6 @@ I would like to say big thank you to Microverse for the resources provided
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
